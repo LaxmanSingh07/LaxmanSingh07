@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LaxmanSingh07</h1>
+<h1 align="center">Hi 👋, I'm Laxman Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmansingh07&label=Profile%20views&color=0e75b6&style=flat" alt="laxmansingh07" /> </p>
